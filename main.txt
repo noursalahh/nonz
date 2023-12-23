@@ -1,1 +1,5 @@
 print 1
+
+neww
+
+print 2 
